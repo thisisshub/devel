@@ -1,4 +1,7 @@
 {
-    "git.ignoreLimitWarning": true,
-    "python.pythonPath": "manit/bin/python3.7"
+    "python.pythonPath": "/usr/sbin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
 }

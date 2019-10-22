@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macro-dogfish-238009",
+  "private_key_id": "6417513b1b3899d7e45752b76d8321bb1e3e0063",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDe3Q8yvE++SSKN\nWXcBCKXcRfJRkGEhNyOfm4ZTcz+fZTR4HF2EneTCwP4xxtwpr3MnEnwFmJTXrYij\n24JbfBxJdQSjAeNlZco9GSdBw86lq07PEBlKYqg4cFXgU/cLl0WXt2yI7esbnTRu\n8WYtwIJRF9L6hBb4YMthfr6PxJCUYhyACr9CzRb8I90ZtIJaCiG0UsLT5kp9a3py\nyuShvgvlu9QdtGPFV1JY6T9wKP2WYEdDaxpUQNcFILoHNvnSNuXMGmNQOsiaLVsn\nxBvpXZsZKh5z1/TrjZpHqKDyQWZuwJYK977j4I3ywGU59h1RYUShO4hHGMOuYxWC\nSHjBuSsRAgMBAAECggEAIZMhm0Xh6JuphCx2gHYeUK9L+Iw9Cc0+BWlfhPpvmxKa\n4z54u0YzRMDg+rxIBlKrkTcYbppkUBLRa0giXSh3NXzW2DzsVmYNoANGVgLLAsvq\nWUkGWl2/FJOd6GgV543gWuE0DXP0b8pQ8CbXeyyNpWxmqT2VnVEtyrAWwt983ZGb\nV7RfMSo7X6O4cz6YExjd59jxWdLOeVKE8To6Px9Mp9K9LwLML8FLu9mH44aDZNYQ\n1nKYsVQo+Cwf4Qf9Bq9EFVf0V+MY0fAg4jZlfjZURuMN/Zt+YDC248pAExXzssAY\nf8i6GSoh5Ku1uWSLZpuciRHXlF6GKfKo69pz9HWrzQKBgQDz9wIoXwjOcILS4yPH\n3If3EeMCxy5+FNLf+1Wr4/PsHMmCgYx9gBJ/UGhblEp1XkHpKoTE5KZ8uUL95J7t\n8bCz0O0TW+kCV1N9EG2RGpo0Gt9aArRyijLXPbjJ++yj371M64xfw0iqHpUmVN5X\nQxLI8+7yroXIl14D0la74dV0fQKBgQDp25C6/pDipIf1RSsjZIIe//2yqeFfsws9\ncpx/a5aLfUbLTLKwvvp2FpUVEengw1FObfXa2OWBckvkNC1PRIED+XOm4l8zO1o+\nsUTnyPQSF0Jc+DA/R1bbhz8THU0Y4gC3/YFgBlCs6RjfGU5ifg8IMUrHSGMaS7fF\n0DCYA0W5JQKBgQCKw/vxNKUQr0RqaZInk1Ou//iM0vip9HRBvHbtb5qFuZYQ6lkb\n5WYgDn9dX8q+WZ/J3Uppp9je5o2pVonjs+6bSQIgWc3+a+dsIpT/zQ7bBlH2o8U5\nxUvHzC64jNf8Gj5Va0GMEsrZIM4bYHibT+Z2cPGADi7AewCZ0eFNutWsDQKBgDpI\nEyjXOqqRUKTqyRZ3/QnWyJZXSii8iWeWAbSrzogS/6q5AauU3PzDIgJvRXdTlhbS\nxrv05DW/k3RbIJOpwfGIoK8NqaYt+462RTLy3QkJLOvYmsWadOYfLbQI0GcMJBu2\nnSCeUkrViPJI70USn5JuHnHN84zhI/qzqPipkB3VAoGANIgsuOEI1ODkttCDM/L3\nluuYxoaV+HLY+T+w0Jsz3fQAZgvKWwS/hgRCLqOrTY2rvyxJnaIdqQWCeDa/gB8+\nu/2gFWjQ9SYLyrPUlyDOPS3FyLE1IZnF3GwrKohEtPHC+/2YX+oogR+ujJAYYbRg\nbv4TLCPdnRDcSlv97OHX20k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendance-script@macro-dogfish-238009.iam.gserviceaccount.com",
+  "client_id": "103306069475095381110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendance-script%40macro-dogfish-238009.iam.gserviceaccount.com"
+}

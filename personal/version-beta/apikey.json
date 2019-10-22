@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macro-dogfish-238009",
+  "private_key_id": "da69885d24abdf49547f28c0d959f4a7e3bd5958",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJw4na2+NtjGaE\nYW3hb2ra4bB1bcVVsCCEdFUrkYkiIFM3mdsxH6vWg6C4i7XydiCAc+L2IIZ5RcKX\npq0m+WCfY1RTYgwr8GETecd0ZESjM+YlRA9cQ4+YBI1KDrVdCPPR865rq/PBVaSo\nC4fZLuLsWgfJgunmaqX7kI10l39/2apZouYDpDG6mXPw7lcmh9Ofm9UnlwMHg0tk\nf1jv7Vx9nCE/NdKH4TAHHdn1BE5U6dC/wfb9FDD/9213Z/v+sYjowQM1ltUVUbMc\nSyaSDBjhIjzrIq6IqYDPcm4VxhUXJZ+eQWpC5wHVEH6QhcLBria4pGlXyhYwo4ft\n+3e0W5M3AgMBAAECggEAUKKlZaKbshx6nE2T7JTqz6+DJmtIgoZxeH5Fy7POaqUg\nnQgQYgGWW5UflqG/hbdQJgYqntNA6xbGPnWOnhTsWMcJ3IlC9AyNv4rb+9hW1iLX\nx+z7dpRJvyeSkBZwxU3eo/oPq1h9grcHp2F0WYgziOIyWobHlB7rVy7eWcpyWlWd\ntW4Bul4rjJk52TsewnaXb2HUkNfK2hp+xs5NcCNdbqlTqq5XlUnpoa0xn0LCBOut\n82mM/MMMhO17kxyBK/UgBdT1Hu2AZNxlnoPaSafJVnZ21OM+egW0biIsmUQ2uQnW\ni5Iu0oHIiq02+O5xo9AdrLGLhQNY46J5s4sDuU2JgQKBgQDt7Q1eMrNTGaNUr9Cm\nCzpVydQregUtI5/ENz3FqhXaRw1cZnpxI+lgUGwMSW9Mmm6bKYhTaomWwVC1uZm+\nsy/g1UkJFbuYiFXXoL5iytbTDSYVROBju1zoA4MaaiooFCuAcvRzfypNCxsKmX8K\nnvF87zkEZ5DHMhvbm29CjdXtHQKBgQDZFz2SrmGQfPJOTUPtfo3TKYLQv27Y/9RF\no6rHrTQci0Bl4fBfUnA8wZMetixfo9QB1Synu6uCPXVztXA2BMJwS9/dd9/vRixj\n5hxlML8sgtLlY2J5blVelZruYNmKhE0CV3jOXy0xxiY6gxfRcqHALktpaM6E4NzF\nmQfWBuuVYwKBgQDjS9C2ifcYz2hi0iehSR6ssEjaVBK34c2StTd1K5z+z1wrRtd4\nWNduJMZkIo+KfgpmfxH2ptPUys+hHDONpD98KiZA4Js8CBsCCVV4qdD7BRe5v/gi\nLu9900UfKgcmDMbWSnvQDs9JlO97e9KLQfbv5NXyqEH+mpdUgDSVP0z83QKBgF7u\nxdNGBI49xWwuZ50MsZJ83aLRg/TK8xW8+6qz+EzfLDshcY8Nqt02vVI50e/E4aon\ngY6cB+U9YQZHepl0vV6EH5JmoHuvESxibVpm1cLuNrFvI5n8gMKK46SIn7juIAr9\nG2wLvOS+ROtjdl/2I/u5gurGlUEQYBrcz8ttXUoHAoGAZTPix+C2TAHS4gI+mWYO\nARpCIyV9yVddx4WgCYCS9q2Al94YGVivC8IwhOOJdNinRvEozcX2nA6AP6N70/Uq\n832oTCXiApL3+hvVcrqiBoQJUlKKe4VvWxTskQhX20Kx30JVhRGx67ivwYUcygHq\nHZFzMo1TjT7C5uIUwGHTQck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-text-detection@macro-dogfish-238009.iam.gserviceaccount.com",
+  "client_id": "109130768431628392087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-text-detection%40macro-dogfish-238009.iam.gserviceaccount.com"
+}
