@@ -1,0 +1,7 @@
+thclient/__init__.py,sha256=4JTv--2Kru4HXUqpOXSHFSM3sy9ZBx_rDJlo9uglM2Y,64
+thclient/client.py,sha256=U9GTtWMOX9CzE_qn6EEudTIX7b0QIXHlFWsxeiM_u4o,5988
+thclient/perfherder.py,sha256=xRY9z60tdzaHEQLxrHVNvbnqwZxeyVha9qQSbga9F8s,4267
+treeherder_client-5.0.0.dist-info/METADATA,sha256=BP8MDSYo-dsErS1sf6Qc5BDPg-HNCMxEoEA4pb1FQsw,906
+treeherder_client-5.0.0.dist-info/WHEEL,sha256=05Ahrak1u2K61DpLp9CDNSbUImLTITCMom_cqTFk6pE,116
+treeherder_client-5.0.0.dist-info/top_level.txt,sha256=_Ao9VAj3inLspgZ6Yisw_1h7o0tlKBzQuMOH5b39hvw,9
+treeherder_client-5.0.0.dist-info/RECORD,,
