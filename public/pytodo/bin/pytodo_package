@@ -1,0 +1,7 @@
+#!/home/shub/devel/public/pytodo/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'pytodo==0.1','pytodo_package'
+__requires__ = 'pytodo==0.1'
+__import__('pkg_resources').require('pytodo==0.1')
+__file__ = '/home/shub/devel/public/pytodo/pytodo/pytodo_package'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
